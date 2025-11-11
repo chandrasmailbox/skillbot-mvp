@@ -2,10 +2,10 @@
 	path = lerobot
 	url = https://github.com/huggingface/lerobot.git
 [submodule "3D-Diffusion-Policy"]
-    path = 3D-Diffusion-Policy
-    url = https://github.com/YanjieZe/3D-Diffusion-Policy.git
+	path = 3D-Diffusion-Policy
+	url = https://github.com/YanjieZe/3D-Diffusion-Policy.git
 
 [submodule "URScript_Examples"]
-    path = URScript_Examples
-    url = https://github.com/UniversalRobots/URScript_Examples.git
+	path = URScript_Examples
+	url = https://github.com/UniversalRobots/URScript_Examples.git
 
