@@ -1,0 +1,10 @@
+# Python dependencies
+opencv-python
+torch
+torchvision
+wandb
+diffusers
+
+# Install submodules as packages using pip editable mode
+-e lerobot
+-e 3D-Diffusion-Policy
